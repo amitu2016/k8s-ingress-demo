@@ -1,0 +1,5 @@
+# Created at 2025-01-30T14:11:28.730
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Current_Downloads_Folder\k8s-ingress-demo\blog-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

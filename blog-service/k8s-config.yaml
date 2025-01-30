@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: blog-service
-          image: javatechie4u/blog-service:2.0
+          image: amitu2021/blog-service:1.0
           ports:
             - containerPort: 8080
 

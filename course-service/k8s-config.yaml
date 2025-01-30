@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: course-service
-          image: javatechie4u/course-service:2.0
+          image: amitu2021/course-service:1.0
           ports:
             - containerPort: 8080
 
